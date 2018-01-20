@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<StepList>
+	<Step>
+		<Name>Name1</Name>
+		<Desc>Desc1</Desc>
+	</Step>
+	<Step>
+		<Name>Name2</Name>
+		<Desc>Desc2</Desc>
+	</Step>
+</StepList>

@@ -1,0 +1,9 @@
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\StackoverFlowX\StackoverFlowX\bin\Debug\StackoverFlowX.exe.config
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\StackoverFlowX\StackoverFlowX\bin\Debug\StackoverFlowX.exe
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\StackoverFlowX\StackoverFlowX\bin\Debug\StackoverFlowX.pdb
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\StackoverFlowX\StackoverFlowX\obj\Debug\StackoverFlowX.csprojResolveAssemblyReference.cache
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\StackoverFlowX\StackoverFlowX\obj\Debug\StackoverFlowX.exe
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\StackoverFlowX\StackoverFlowX\obj\Debug\StackoverFlowX.pdb
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\xmlCSharpSerialiser\StackoverFlowX\bin\Debug\StackoverFlowX.exe.config
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\xmlCSharpSerialiser\StackoverFlowX\obj\Debug\StackoverFlowX.exe
+C:\Users\Krishneil\Documents\Visual Studio 2015\Projects\xmlCSharpSerialiser\StackoverFlowX\obj\Debug\StackoverFlowX.pdb
